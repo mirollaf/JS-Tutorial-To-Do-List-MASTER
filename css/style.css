@@ -1,8 +1,11 @@
-/* ------------ youtube.com/CodeExplained ------------ */
+html{ 
+    background-color: rgb(88, 145, 184);
+}
+
 body{
     padding: 0;
     margin: 0;
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(176, 88, 228, 0.1);
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -32,7 +35,7 @@ body{
 }
 .clear i{
     font-size: 30px;
-    color: #FFF;
+    color: #f5dcdc;
 }
 .clear i:hover{
     cursor: pointer;
@@ -107,7 +110,7 @@ body{
     top:10px;
 }
 .item i.de:hover{
-    color:#af0000;
+    color:#34c7bb;
     cursor: pointer;
 }
 /* ------------ add item ------------ */
